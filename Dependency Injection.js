@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/dependency-injection/javascript
+
 class DI{
   constructor(dependency){
     this.dependency = dependency;
